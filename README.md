@@ -20,3 +20,12 @@ The component displays:
 - HTML5
 - CSS3 (Grid, positioning, media queries)
 
+## Link github
+https://github.com/Abeyyyyyy/changelog-component
+
+## Link deploy
+https://abeyyyyyy.github.io/changelog-component/
+
+## Link Roadmap.sh
+https://roadmap.sh/projects/changelog-component
+
